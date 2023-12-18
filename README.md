@@ -164,17 +164,17 @@ Add html files in static folder. Run the python file.
 </html>
 ```
 ## Output:
-![imagemapsoutput](./placesaroundmyhome.jpeg)
+![imagemapsoutput](./placesaroundmyhome.png)
 
-![imagemapsoutput](./Badmintoncourt.jpg)
+![imagemapsoutput](./Badmintoncourt.png)
 
-![imagemapsoutput](./Clothingstore.jpg)
+![imagemapsoutput](./Clothingstore.png)
 
-![imagemapsoutput](./Mobilestore.jpg)
+![imagemapsoutput](./Mobilestore.png)
 
-![imagemapsoutput](./School.jpg)
+![imagemapsoutput](./School.png)
 
-![imagemapsoutput](./Supermarket.jpg)
+![imagemapsoutput](./Supermarket.png)
 
 ## Result:
 The program is sucessfully executed.
