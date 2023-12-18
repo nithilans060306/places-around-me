@@ -8,7 +8,9 @@ To develop a website to display details about the places around my house.
 Clone the repoitory
 ### Step 2:
 Add html files in static folder. Run the python file.
+
 ## Code:
+
 ### Map:
 ```html
 <!DOCTYPE html>
@@ -36,6 +38,7 @@ Add html files in static folder. Run the python file.
         <area alt="Mobile Store" title="Mobile Store" href="mobstore.html" coords="357,505,389,531" shape="rect">
         <area alt="Badminton Court" title="Badminton Court" href="bcourt.html" coords="1053,152,1086,181" shape="rect">
         <area alt="School" title="School" href="school.html" coords="884,279,915,302" shape="rect">
+        
         </map>
     </body>
 </html>
@@ -135,19 +138,43 @@ Add html files in static folder. Run the python file.
     </head>
 </html>
 ```
+
+### School:
+```html
+<!DOCTYPE html>
+<html>
+    <title>
+      School
+    </title>
+    <head>
+        <style>
+            body{
+                margin-left: 285px;
+                background-color: rgb(196, 253, 255);
+            }
+            h1{
+                margin-left: 35%;
+            }
+        </style>
+        <body>
+            <h1>School</h1>
+            <img src= "School.jpg" alt="School"> 
+        </body>
+    </head>
+</html>
+```
 ## Output:
-![imagemaps output](./placesaroundmyhome.jpeg)
+![imagemapsoutput](./placesaroundmyhome.jpeg)
 
-![imagemaps output](./Badmintoncourt.jpg)
+![imagemapsoutput](./Badmintoncourt.jpg)
 
-![imagemaps output](./Clothingstore.jpg)
+![imagemapsoutput](./Clothingstore.jpg)
 
-![imagemaps output](./Mobilestore.jpg)
+![imagemapsoutput](./Mobilestore.jpg)
 
-![imagemaps output](./School.jpg)
+![imagemapsoutput](./School.jpg)
 
-![imagemaps output](./Supermarket.jpg)
+![imagemapsoutput](./Supermarket.jpg)
 
 ## Result:
-
 The program is sucessfully executed.
