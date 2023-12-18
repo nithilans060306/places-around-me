@@ -5,14 +5,12 @@ To develop a website to display details about the places around my house.
 ## Design Steps:
 
 ### Step 1:
-
 Clone the repoitory
 ### Step 2:
-
-
-
+Add html files in static folder. Run the python file.
 ## Code:
-
+### Map:
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -31,8 +29,8 @@ Clone the repoitory
     </style>
     <body>
         <h1>Image maps</h1>
-        <img src="places around my home.jpeg" usemap="#image_map">
-        <map name="image_map">
+        <img src="placesaroundmyhome.jpeg" usemap="#image_map">
+        <map name="image_map"
         <area alt="Clothing store" title="Clothing store" href="dress.html" coords="141,639,201,672" shape="rect">
         <area alt="Super Market" title="Super Market" href="smarket.html" coords="1190,400,1222,431" shape="rect">
         <area alt="Mobile Store" title="Mobile Store" href="mobstore.html" coords="357,505,389,531" shape="rect">
@@ -41,7 +39,9 @@ Clone the repoitory
         </map>
     </body>
 </html>
-
+```
+### Badminton court:
+```html
 <!DOCTYPE html>
 <html>
     <title>
@@ -63,7 +63,9 @@ Clone the repoitory
         </body>
     </head>
 </html>
-
+```
+### Clothing store:
+```html
 <!DOCTYPE html>
 <html>
     <title>Clothing store</title>
@@ -79,11 +81,13 @@ Clone the repoitory
     </style>
     <body>
         <h1>Clothing Store</h1>
-        <img src= "Clothing store.jpg" alt="Clothing store"> 
+        <img src= "Clothingstore.jpg" alt="Clothing store"> 
     </body>
 </head>
 </html>
-
+```
+### Mobile store:
+```html
 <!DOCTYPE html>
 <html>
     <title>
@@ -105,7 +109,9 @@ Clone the repoitory
         </body>
     </head>
 </html>
-
+```
+### Super market:
+```html
 <!DOCTYPE html>
 <html>
     <title>
@@ -128,19 +134,19 @@ Clone the repoitory
         </body>
     </head>
 </html>
-
+```
 ## Output:
-![Output](./placesaroundmyhome.jpeg)
+![output](./placesaroundmyhome.jpeg)
 
-![Output](./Badmintoncourt.jpg)
+![output](./Badmintoncourt.jpg)
 
-![Output](./Clothingstore.jpg)
+![output](./Clothingstore.jpg)
 
-![Output](./Mobilestore.jpg)
+![output](./Mobilestore.jpg)
 
-![Output](./School.jpg)
+![output](./School.jpg)
 
-![Output](./Supermarket.jpg)
+![output](./Supermarket.jpg)
 
 ## Result:
 
