@@ -136,17 +136,17 @@ Add html files in static folder. Run the python file.
 </html>
 ```
 ## Output:
-![output](./placesaroundmyhome.jpeg)
+![imagemaps output](./placesaroundmyhome.jpeg)
 
-![output](./Badmintoncourt.jpg)
+![imagemaps output](./Badmintoncourt.jpg)
 
-![output](./Clothingstore.jpg)
+![imagemaps output](./Clothingstore.jpg)
 
-![output](./Mobilestore.jpg)
+![imagemaps output](./Mobilestore.jpg)
 
-![output](./School.jpg)
+![imagemaps output](./School.jpg)
 
-![output](./Supermarket.jpg)
+![imagemaps output](./Supermarket.jpg)
 
 ## Result:
 
